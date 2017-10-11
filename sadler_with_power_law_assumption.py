@@ -2,7 +2,7 @@
 """
 Created on Wed Jan 18 08:49:23 2017
 
-@author: Struktur
+@author: Tom
 """
 
 
