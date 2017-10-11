@@ -5,6 +5,6 @@ The plot sadler_powerlaw.png shows the  frequency distribution of accumulation r
 
 The plot sadler_with_power_law_assumption shows the relation of accumulation rate to time span [mya]. The general assumption of the power law is not true for all sub-basins.
 
-Most important however are the plots in the folder sadler plots, which show show frequency distributions of accumulation rates for single basins. Feel free to comment if you can see any exhumation events?
+Most important however are the plots in the folder sadler plots, which show frequency distributions of accumulation rates for single basins. Feel free to comment if you can see any exhumation events!
 
 This work is based on my master's thesis. Unfortunately, I don t have the rights to publish the whole project. I would be happy if you want to discuss any parts further. Contact me. 
